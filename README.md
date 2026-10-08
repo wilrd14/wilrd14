@@ -41,7 +41,7 @@ Busco mi primera oportunidad como **Desarrollador Frontend Jr.** *(Open to work 
 
 ## Dónde encontrarme
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-portafolio.w--tech.uk-00E5FF?style=for-the-badge&labelColor=0A0C14)](https://portafolio.w-tech.uk)
+[![Portafolio](https://img.shields.io/badge/Portafolio-portafolio.w--tech.uk-00E5FF?style=for-the-badge&labelColor=0A0C14)](https://wilrd14.dev)
 [![TikTok](https://img.shields.io/badge/TikTok-@wilrd14-FF2E93?style=for-the-badge&labelColor=0A0C14)](https://www.tiktok.com/@wilrd14)
 [![Instagram](https://img.shields.io/badge/Instagram-@wilrd14-FF2E93?style=for-the-badge&labelColor=0A0C14)](https://www.instagram.com/wilrd14)
 [![X](https://img.shields.io/badge/X-@wilrd14-00E5FF?style=for-the-badge&labelColor=0A0C14)](https://x.com/wilrd14)
