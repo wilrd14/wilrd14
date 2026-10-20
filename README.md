@@ -34,8 +34,8 @@ Busco mi primera oportunidad como **Desarrollador Frontend Jr.** *(Open to work 
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| **[WTech Store](https://github.com/willrd14)** <!-- REEMPLAZA con el enlace del repo --> | Tienda en línea con carrito y pagos | React 19, Vite, Tailwind, Express, Supabase/PostgreSQL, PayPal, Docker, Fly.io |
-| **[Barbershop SaaS](https://github.com/willrd14)** <!-- REEMPLAZA con el enlace del repo --> | Plataforma de gestión para barberías, con autenticación y cobros | React, TypeScript, Stripe, JWT, monorepo |
+| **[WTech Store](https://github.com/wilrd14/WTech_Store)** | Tienda en línea con carrito y pagos | React 19, Vite, Tailwind, Express, Supabase/PostgreSQL, PayPal, Docker, Fly.io |
+| **[Barbershop SaaS](https://github.com/wilrd14/Barbersho_SaaS)** | Plataforma de gestión para barberías, con autenticación y cobros | React, TypeScript, Stripe, JWT, monorepo |
 | **[Sistema de gestión de almacén](https://github.com/willrd14)** <!-- REEMPLAZA con el enlace del repo --> | Control de inventario con roles y permisos | React, Node/Express, MySQL, Docker Compose, RBAC |
 | **[Mi portafolio](https://wilrd14.dev)** | Sitio personal con modo claro y oscuro, español e inglés y CV descargable | React 19, Tailwind CSS 4, Framer Motion, Cloudflare |
 
